@@ -1,0 +1,12 @@
+{
+    "cph.language.cpp.Command": "C:/msys2/ucrt64/bin/g++.exe",
+    "cph.general.saveLocation": "C:/Users/Anak1st/Documents/GitHub/Contests/build/cph",
+    "cph.language.cpp.Args": "-O2 -std=c++20",
+    "cph.general.autoShowJudge": false,
+    "cph.general.timeOut": 10000,
+    // "terminal.integrated.defaultProfile.windows": "Conda",
+    "clangd.fallbackFlags": [
+        "--target=x86_64-w64-windows-gnu",
+        "-std=c++20",
+    ],
+}
